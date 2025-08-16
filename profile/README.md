@@ -21,13 +21,15 @@
 
 | 项目 | 描述 | 链接 |
 | :--- | :--- | :--- |
-| **iBizModeling** | 一体化建模驱动开发平台，可打造专属低代码平台。 | [🌐https://modeling.ibizlab.cn](https://modeling.ibizlab.cn) |
-| **[iBizAppHub](https://github.com/ibizlab-cloud/iBiz-app-hub)** | 基于 Vue3+Vite 的前端技术框架，支持微前端与海量组件。 | [🌐https://hub.ibizlab.cn](https://hub.ibizlab.cn) |
-| **[iBizServiceHub](https://github.com/ibizlab-cloud/ibiz-service-hub)** | 负责模型的分发、解释、启动、路由与治理，实现“模型 → 微服务”的生产化交付链。| [🌐](https://github.com/ibizlab-cloud/ibiz-service-hub) |
-| **[iBizPLM](https://github.com/ibizlab/iBizPLM)** | 全流程协同的产品生命周期管理系统，对标一线商用软件。 | [🌐https://plm.ibizlab.cn](https://plm.ibizlab.cn) |
-| **[iBizCRM](https://github.com/ibizlab/iBizCRM)** | 借鉴 Zoho 理念的强大客户关系管理系统，支持本地部署。 | [🌐https://crm.ibizlab.cn](https://crm.ibizlab.cn) |
-| iBizEHR | （开发中）对标一线的人事管理软件，融合人事、工资、考勤等。 | 👉 **敬请期待** |
-| iBizOdoo | （规划中）Odoo 的 iBiz 技术栈实现，打造最佳商业套件基座。 | 👉 **敬请期待** |
+| **[iBizModeling](https://modeling.ibizlab.cn)** | 一体化建模驱动开发平台，可打造专属低代码平台。 | 
+| **[iBizAppHub](https://github.com/ibizlab-cloud/iBiz-app-hub)** | 基于 Vue3+Vite 的前端技术框架，支持微前端与海量组件。 | 
+| **[iBizServiceHub](https://github.com/ibizlab-cloud/ibiz-service-hub)** | 负责模型的分发、解释、启动、路由与治理，实现“模型 → 微服务”的生产化交付链。| 
+| **[iBizPLM](https://github.com/ibizlab/iBizPLM)** | 全流程协同的产品生命周期管理系统，对标一线商用软件。 | 
+| **[iBizCRM](https://github.com/ibizlab/iBizCRM)** | 借鉴 Zoho 理念的强大客户关系管理系统，支持本地部署。 | 
+| iBizEHR | （开发中）对标一线的人事管理软件，融合人事、工资、考勤等。 | 
+| iBizOdoo | （规划中）Odoo 的 iBiz 技术栈实现，打造最佳商业套件基座。 | 
+
+## 🚀 最新动态
 
 - 🗓️ **<span class="date-text">2025-08-10</span>** ｜ 🏷️ 通知：[iBizLab 开源实验室再添新成员 —— iBizCRM](https://www.ibizlab.cn/crm.html)
 - 🗓️ **<span class="date-text">2025-08-01</span>** ｜ 🏷️ 发布：[软件生命周期管理系统-v20250801版本发布](https://github.com/ibizlab/plm/blob/main/CHANGELOG.md)
@@ -50,12 +52,12 @@
 我们欢迎任何形式的参与！无论是报告问题、贡献代码、提出建议还是分享使用心得，您的参与都至关重要。
 
 *   **参与开发**：在各项目仓库提交 Issue 或 Pull Request。
-*   **申请实验室**：如果您有创新想法，欢迎申请加入 iBizLab 开源实验室，共同孵化项目。
-*   **联系我们**：访问我们的 [官网](https://www.ibizlab.cn/) 获取更多信息。
-
-## 📄 许可证
-
-除非另有说明，本组织下的所有项目均采用 [MIT 许可证](LICENSE) 开源。
+*   **申请实验室**：如果您有创新想法，欢迎申请加入 iBizLab 开源实验室，共同孵化项目。 [申请入口]([https://www.ibizlab.cn](https://open.ibizlab.cn/plmweb/#/-/index/-/workspace_tab_exp_view/srfnav=oss/recent_oss_tree_exp_view/-/route-modal/dev_lab_apply_apply_edit_view/-))
+  
+- 🌐 开源实验室官网：[www.ibizlab.cn](https://www.ibizlab.cn)
+- 💬 开源社区：[open.ibizlab.cn](https://open.ibizlab.cn)
+- 📱 微信公众号：`iBiz 开放平台`
+- 💬 QQ交流群：iBiz企业级管理系统开源群 `1056401976` / iBizLab社区开源群 `1067434627`
 
 ---
 
