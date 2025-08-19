@@ -24,8 +24,8 @@
 | **[iBizModeling](https://modeling.ibizlab.cn)** | 一体化建模驱动开发平台，可打造专属低代码平台。 | 
 | **[iBizAppHub](https://github.com/ibizlab-cloud/iBiz-app-hub)** | 基于 Vue3+Vite 的前端技术框架，支持微前端与海量组件。 | 
 | **[iBizServiceHub](https://github.com/ibizlab-cloud/ibiz-service-hub)** | 负责模型的分发、解释、启动、路由与治理，实现“模型 → 微服务”的生产化交付链。| 
-| **[iBizPLM](https://github.com/ibizlab/iBizPLM)** | 全流程协同的产品生命周期管理系统，对标一线商用软件。 | 
-| **[iBizCRM](https://github.com/ibizlab/iBizCRM)** | 借鉴 Zoho 理念的强大客户关系管理系统，支持本地部署。 | 
+| **[iBizPLM](https://github.com/ibizlab/plm)** | 全流程协同的产品生命周期管理系统，对标一线商用软件。 | 
+| **[iBizCRM](https://github.com/ibizlab/crm)** | 借鉴 Zoho 理念的强大客户关系管理系统，支持本地部署。 | 
 | iBizEHR | （开发中）对标一线的人事管理软件，融合人事、工资、考勤等。 | 
 | iBizOdoo | （规划中）Odoo 的 iBiz 技术栈实现，打造最佳商业套件基座。 | 
 
