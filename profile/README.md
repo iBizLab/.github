@@ -19,8 +19,8 @@
 
 我们正在积极开发和维护一系列高质量的开源项目：
 
-| 项目 | 描述 | 链接 |
-| :--- | :--- | :--- |
+| 项目 | 描述 |
+| :--- | :--- |
 | **[iBizModeling](https://modeling.ibizlab.cn)** | 一体化建模驱动开发平台，可打造专属低代码平台。 | 
 | **[iBizAppHub](https://github.com/ibizlab-cloud/iBiz-app-hub)** | 基于 Vue3+Vite 的前端技术框架，支持微前端与海量组件。 | 
 | **[iBizServiceHub](https://github.com/ibizlab-cloud/ibiz-service-hub)** | 负责模型的分发、解释、启动、路由与治理，实现“模型 → 微服务”的生产化交付链。| 
