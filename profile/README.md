@@ -56,8 +56,11 @@
   
 - 🌐 开源实验室官网：[www.ibizlab.cn](https://www.ibizlab.cn)
 - 💬 开源社区：[open.ibizlab.cn](https://open.ibizlab.cn)
+- 🖥 哔哩哔哩：[ibizlab_cn](https://space.bilibili.com/3546701094717585)
+- 💬 QQ交流群：iBiz企业级管理系统开源群 👉 [1056401976](https://qm.qq.com/q/vsMReasOOs) 
+- 💬 QQ交流群：iBizLab社区开源群 👉 [1067434627](https://qm.qq.com/q/BXMu4H37Hy)
 - 📱 微信公众号：`iBiz 开放平台`
-- 💬 QQ交流群：iBiz企业级管理系统开源群 `1056401976` / iBizLab社区开源群 `1067434627`
+![img](wx.jpg)
 
 ---
 
