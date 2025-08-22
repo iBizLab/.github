@@ -60,6 +60,7 @@
 - 💬 QQ交流群：iBiz企业级管理系统开源群 👉 [1056401976](https://qm.qq.com/q/vsMReasOOs) 
 - 💬 QQ交流群：iBizLab社区开源群 👉 [1067434627](https://qm.qq.com/q/BXMu4H37Hy)
 - 📱 微信公众号：`iBiz 开放平台`
+  
 ![img](wx.jpg)
 
 ---
