@@ -34,9 +34,9 @@
 
 | 日期 | 动态 |
 | :--- | :--- | 
-| 🗓️ **<span class="date-text">2025-09-29</span>** | 🏷️ 发布：[软件生命周期管理系统-v20250929版本发布](https://github.com/ibizlab/plm/blob/main/CHANGELOG.md) |
 | 🗓️ **<span class="date-text">2025-09-27</span>** | 🏷️ 报告：[iBizEHR / iBizOdoo 假勤管理模块上线报告](https://www.ibizlab.cn/checkin.html) |
 | 🗓️ **<span class="date-text">2025-09-06</span>** | 🏷️ 通知：[iBizEHR 重制版预发布 —— 招聘管理模块已首发](https://www.ibizlab.cn/ehr.html) |
+| 🗓️ **<span class="date-text">2025-08-29</span>** | 🏷️ 发布：[软件生命周期管理系统-v20250829版本发布](https://github.com/ibizlab/plm/blob/main/CHANGELOG.md) |
 | 🗓️ **<span class="date-text">2025-08-10</span>** | 🏷️ 通知：[iBizLab 开源实验室再添新成员 —— iBizCRM](https://www.ibizlab.cn/crm.html) |
 | 🗓️ **<span class="date-text">2025-07-20</span>** | 🏷️ 通知：[iBizModeling 实验室重磅上线 AI 智能建模功能！全免费开放](https://www.ibizlab.cn/ai.html) |
 | 🗓️ **<span class="date-text">2025-06-09</span>** | 🏷️ 通知：[iBizHUB 前端技术站正式上线](https://www.ibizlab.cn/apphub.html) |
