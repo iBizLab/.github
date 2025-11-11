@@ -34,9 +34,11 @@
 
 | 日期 | 动态 |
 | :--- | :--- | 
+| 🗓️ **<span class="date-text">2025-11-08</span>** | 🏷️ 通知：[iBizLab 开放平台实验室全新升级｜支持自助开通，无需审批](https://www.ibizlab.cn/apply.html) |
+| 🗓️ **<span class="date-text">2025-10-24</span>** | 🏷️ 发布：[软件生命周期管理系统-v20251024版本发布](https://gitee.com/ibizlab/plm/blob/main/CHANGELOG.md) |
+| 🗓️ **<span class="date-text">2025-10-19</span>** | 🏷️ 通知：[基于 iBizModeling 打造的国产化可扩展业务套件 — iBizOdoo](https://www.ibizlab.cn/checkin.html) |
 | 🗓️ **<span class="date-text">2025-09-27</span>** | 🏷️ 报告：[iBizEHR / iBizOdoo 假勤管理模块上线报告](https://www.ibizlab.cn/checkin.html) |
 | 🗓️ **<span class="date-text">2025-09-06</span>** | 🏷️ 通知：[iBizEHR 重制版预发布 —— 招聘管理模块已首发](https://www.ibizlab.cn/ehr.html) |
-| 🗓️ **<span class="date-text">2025-08-29</span>** | 🏷️ 发布：[软件生命周期管理系统-v20250829版本发布](https://github.com/ibizlab/plm/blob/main/CHANGELOG.md) |
 | 🗓️ **<span class="date-text">2025-08-10</span>** | 🏷️ 通知：[iBizLab 开源实验室再添新成员 —— iBizCRM](https://www.ibizlab.cn/crm.html) |
 | 🗓️ **<span class="date-text">2025-07-20</span>** | 🏷️ 通知：[iBizModeling 实验室重磅上线 AI 智能建模功能！全免费开放](https://www.ibizlab.cn/ai.html) |
 | 🗓️ **<span class="date-text">2025-06-09</span>** | 🏷️ 通知：[iBizHUB 前端技术站正式上线](https://www.ibizlab.cn/apphub.html) |
@@ -56,7 +58,7 @@
 我们欢迎任何形式的参与！无论是报告问题、贡献代码、提出建议还是分享使用心得，您的参与都至关重要。
 
 *   **参与开发**：在各项目仓库提交 Issue 或 Pull Request。
-*   **申请实验室**：如果您有创新想法，欢迎申请加入 iBizLab 开源实验室，共同孵化项目。 [申请入口]([https://www.ibizlab.cn](https://open.ibizlab.cn/plmweb/#/-/index/-/workspace_tab_exp_view/srfnav=oss/recent_oss_tree_exp_view/-/route-modal/dev_lab_apply_apply_edit_view/-))
+*   **申请实验室**：如果您有创新想法，欢迎申请加入 iBizLab 开源实验室，共同孵化项目。 [申请入口](https://open.ibizlab.cn/plmweb/#/-/index/-/workspace_tab_exp_view/srfnav=oss/recent_oss_tree_exp_view/-/route-modal/dev_lab_apply_apply_edit_view/-)
 *   **委托开发**：多年企业级项目实施与交付经验的专业团队，依托[iBizModeling](https://modeling.ibizlab.cn)平台提供系统交付服务。[详见](https://modeling.ibizlab.cn/development.html)
   
 - 🌐 开源实验室官网：[www.ibizlab.cn](https://www.ibizlab.cn)
