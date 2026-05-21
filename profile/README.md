@@ -24,7 +24,8 @@
 | **[iBizModeling](https://modeling.ibizlab.cn)** | 一体化建模驱动开发平台，可打造专属低代码平台。 | 
 | **[iBizAppHub](https://github.com/ibizlab-cloud/iBiz-app-hub)** | 基于 Vue3+Vite 的前端技术框架，支持微前端与海量组件。 | 
 | **[iBizServiceHub](https://github.com/ibizlab-cloud/ibiz-service-hub)** | 负责模型的分发、解释、启动、路由与治理，实现“模型 → 微服务”的生产化交付链。| 
-| **[iBizPLM](https://github.com/ibizlab/plm)** | 全流程协同的产品生命周期管理系统，对标一线商用软件。 | 
+| **[iBizPLM](https://github.com/ibizlab/plm)** | 全流程协同的产品生命周期管理系统，对标一线商用软件。 |
+| **[iBizAIFactory](https://github.com/ibizlab/aifactory)** | 创新的分层底座架构 + 云边协同工作机制，面向企业级 AI 垂直应用场景解决方案。 | 
 | **[iBizCRM](https://github.com/ibizlab/crm)** | 借鉴 Zoho 理念的强大客户关系管理系统，支持本地部署。 | 
 | **[iBizEHR](https://github.com/ibizlab/iBizEHR)** | （开发中）对标一线的人事管理软件，融合人事、工资、考勤等，招聘、考勤模块已上线。 | 
 | **[iBizOdoo](https://github.com/ibizlab/iBizOdoo)** | （开发中）Odoo 的 iBiz 技术栈实现，打造最佳商业套件基座。预览版已上线。 | 
@@ -34,8 +35,9 @@
 
 | 日期 | 动态 |
 | :--- | :--- | 
+| 🗓️ **<span class="date-text">2026-05-19</span>** | 🏷️ 通知：[iBizAIFactory 零代码构建智能体，让每个团队都有自己的智能调度中心](https://github.com/ibizlab/aifactory) |
+| 🗓️ **<span class="date-text">2026-03-21</span>** | 🏷️ 发布：[软件生命周期管理系统-v1.0.2版本发布](https://gitee.com/ibizlab/plm/blob/main/CHANGELOG.md) |
 | 🗓️ **<span class="date-text">2025-12-13</span>** | 🏷️ 通知：[iBizPLM AI+ 智能时代：可控、开放、高效的研发副驾驶](https://www.ibizlab.cn/plmai.html) |
-| 🗓️ **<span class="date-text">2025-12-13</span>** | 🏷️ 发布：[软件生命周期管理系统-v20251213版本发布](https://gitee.com/ibizlab/plm/blob/main/CHANGELOG.md) |
 | 🗓️ **<span class="date-text">2025-11-08</span>** | 🏷️ 通知：[iBizLab 开放平台实验室全新升级｜支持自助开通，无需审批](https://www.ibizlab.cn/apply.html) |
 | 🗓️ **<span class="date-text">2025-10-19</span>** | 🏷️ 通知：[基于 iBizModeling 打造的国产化可扩展业务套件 — iBizOdoo](https://www.ibizlab.cn/checkin.html) |
 | 🗓️ **<span class="date-text">2025-09-27</span>** | 🏷️ 报告：[iBizEHR / iBizOdoo 假勤管理模块上线报告](https://www.ibizlab.cn/checkin.html) |
